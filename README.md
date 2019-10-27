@@ -16,5 +16,6 @@ My experience of learning data structure and algorithm.
 |开散列表|[openHash](https://github.com/Songrui625/Data-Structure-Algorithm/blob/master/Data%20Structure/OpenHashTable.cpp)|  
 |闭散列表|[closeHash](https://github.com/Songrui625/Data-Structure-Algorithm/blob/master/Data%20Structure/CloseHashTable.cpp)|  
 |图的邻接矩阵|[AdjMGraph](https://github.com/Songrui625/Data-Structure-Algorithm/blob/master/Data%20Structure/MGraph.cpp)|
-
+|插入排序|[InsertionSort](https://github.com/Songrui625/Data-Structure-Algorithm/blob/master/Data%20Structure/InsertionSort.cpp)|
+|快速排序|[quickSort]()|
 欢迎大家的指正.
