@@ -1,7 +1,7 @@
 # Data-Structure-Algorithm
-**My experience of learning data structure and algorithm.**
+My experience of learning data structure and algorithm.
 <!--MORE-->
-**This repo is aimed to implement all kinds of data structure and algorithm I have learned.**
+This repo is aimed to implement all kinds of data structure and algorithm I have learned.
 
 **目录(implemented)**  
 
