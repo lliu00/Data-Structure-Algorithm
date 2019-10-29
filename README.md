@@ -1,5 +1,5 @@
 # Data-Structure-Algorithm
-My experience of learning data structure and algorithm.
+**My experience of learning data structure and algorithm.**
 <!--MORE-->
 **This repo is aimed to implement all kinds of data structure and algorithm I have learned.**
 
@@ -19,4 +19,4 @@ My experience of learning data structure and algorithm.
 |插入排序|[InsertionSort](https://github.com/Songrui625/Data-Structure-Algorithm/blob/master/Data%20Structure/InsertionSort.cpp)|
 |快速排序|[quickSort](https://github.com/Songrui625/Data-Structure-Algorithm/blob/master/Data%20Structure/quickSort.cpp)|  
 
-欢迎大家的指正.
+welcome to contributes and issues.
