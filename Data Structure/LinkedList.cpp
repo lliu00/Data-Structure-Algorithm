@@ -58,10 +58,11 @@ void LinkedList<T>::preCreateList(T *val, int len)
 //尾插法建立链表
 template<class T>
 void LinkedList<T>::postCreateList(T *val, int len) {
-    node<T> p = head->next;
+    node<T> p = head;
     for (int i = 0; i < len; i++)
     {
-        p = new node<T>(val[i]);
+        node *newNode = new node<T>(val[i]);
+        p.next = newNode;
         p = p.next;
     }
 }
